@@ -1,6 +1,6 @@
 # CRUD App with JWT Authentication
 
-A **basic CRUD application** built with Node.js and Express, featuring **JWT authentication**, **user registration/login**, and secure handling of data. This app demonstrates best practices with modern tools including **bcryptjs**, **cookie-parser**, **helmet**, **joi**, **jsonwebtoken**, **mongoose**, and **nodemailer**.  
+A **professional grade CRUD application** built with Node.js and Express, featuring **JWT authentication**, **user registration/login**, and secure handling of data. This app demonstrates best practices with modern tools including **bcryptjs**, **cookie-parser**, **helmet**, **joi**, **jsonwebtoken**, **mongoose**, and **nodemailer**.  
 
 ---
 
